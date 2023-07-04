@@ -29,4 +29,5 @@ public class SwaggerConfig {
                 .contact(new Contact("shown","https://mail.163.com/js6/main.jsp?sid=DAVFLkyLjRRFOxwupULLGqMSVBdnJkJQ&df=mail163_letter#module=welcome.WelcomeModule%7C%7B%7D","shownzr@163.com"))
                 .build();
     }
+
 }
